@@ -84,7 +84,7 @@ The bot follows this algorithmic flow:
    - Add your Solana wallet private key and API keys:
      ```
      PRIVATE_KEY=your-wallet-private-key
-     RPC_URL=https://api.mainnet-beta.solana.com(replace with your private rpc)
+     RPC_URL=https://solana-yellowstone-grpc.publicnode.com:443
      ```
 4. Run the bot:
    ```bash
